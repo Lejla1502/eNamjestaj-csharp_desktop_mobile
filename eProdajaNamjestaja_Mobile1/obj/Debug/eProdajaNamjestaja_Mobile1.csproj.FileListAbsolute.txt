@@ -1,0 +1,563 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.i.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.i.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.i.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.i.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xaml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xaml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\App.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Login.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\MainPage.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Registration.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.xr.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\resources.pri
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\AppxManifest.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.build.appxrecipe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pri
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xaml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xaml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\en\Validation.Strings.resw
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation.pri
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\qualifiers.txt
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Shim.pri.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\ProjectArchitectures.txt
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.i.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xaml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\Search.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.i.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.cs
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xaml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe.config
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\App.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Login.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\MainPage.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\Search.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Registration.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.xr.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\resources.pri
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\AppxManifest.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.build.appxrecipe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pri
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\en\Validation.Strings.resw
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csproj.GenerateResource.Cache
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation.pri
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\qualifiers.txt
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Shim.pri.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\ProjectArchitectures.txt
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.i.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.cs
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xaml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe.config
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\App.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Login.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\MainPage.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\Search.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Registration.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.xr.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\resources.pri
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\AppxManifest.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.build.appxrecipe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pri
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.i.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xaml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xbf
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\en\Validation.Strings.resw
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csproj.GenerateResource.Cache
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation.pri
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\qualifiers.txt
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Shim.pri.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\ProjectArchitectures.txt
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\layout.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\layout.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\Resources.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\Resources.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\pri.resfiles
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\pri.resfiles.intermediate
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\priconfig.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\priconfig.xml.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe.config
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\App.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Login.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\MainPage.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\Search.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Registration.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.xr.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\resources.pri
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\AppxManifest.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.build.appxrecipe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pri
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.i.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xaml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\App.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xbf
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\en\Validation.Strings.resw
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csproj.GenerateResource.Cache
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\layout.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\layout.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\Resources.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\Resources.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\pri.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\pri.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\priconfig.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\priconfig.xml.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation.pri
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\qualifiers.txt
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\Shim.pri.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_Mobile1\obj\Debug\ProjectArchitectures.txt
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe.config
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\App.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Login.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\MainPage.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\Search.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Registration.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.xr.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\resources.pri
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\AppxManifest.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.build.appxrecipe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Shim.pri
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Validation.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\App.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Login.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.i.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\App.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xaml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\App.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Login.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\MainPage.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\HistorijaNarudzbi.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\OcjenjivanjeIPreporuka.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\Search.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Products\UrediProfil.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Profil\ActiveOrders.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Registration.xbf
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.exe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\en\Validation.Strings.resw
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\eProdajaNamjestaja_Mobile1.csproj.GenerateResource.Cache
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\layout.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\layout.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\Resources.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\Resources.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\pri.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\pri.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\priconfig.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\priconfig.xml.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation.pri
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Validation\qualifiers.txt
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\priconfig.xml.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\layout.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\resources.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\pri.resfiles.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\Shim.pri.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\ProjectArchitectures.txt

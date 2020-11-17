@@ -1,0 +1,218 @@
+﻿<Page
+    x:Class="eProdajaNamjestaja_Mobile1.Products.OcjenjivanjeIPreporuka"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:eProdajaNamjestaja_Mobile1.Products"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+
+
+    <ScrollViewer  Height="700" >
+        <StackPanel HorizontalAlignment="Center">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" Grid.Row="0" >
+                    <Border Width="110" Height="110">
+                        <Image Name="proizvodImage"></Image>
+                    </Border>
+                    <TextBlock Name="vrstaLabel" HorizontalAlignment="Center" />
+                </StackPanel>
+                <StackPanel Grid.Column="1" Margin="10,0,0,0" Grid.Row="0">
+                    <TextBlock Name="nazivLabel" Style="{StaticResource MessageDialogTitleStyle}" />
+                    <TextBlock Name="sifraLabel" Style="{StaticResource BaseTextBlockStyle}" />
+                    <TextBlock Name="cijenaLabel" Style="{StaticResource BaseTextBlockStyle}" />
+                    <TextBlock Name="modelProizvodaLabel" Style="{StaticResource BaseTextBlockStyle}" />
+                    <TextBlock Name="tipProizvodaLabel" Style="{StaticResource BaseTextBlockStyle}" />
+                    <TextBlock Name="prosjekLabel" Style="{StaticResource BodyTextBlockStyle}" />
+                </StackPanel>
+           <TextBox Name="KolicinaInput"
+                     Grid.Column="0"
+                     Grid.Row="1"
+                     Width="25"
+                         InputScope="Number"
+                         KeyUp="KolicinaInput_KeyUp"
+                     TextAlignment="Right"
+                     Visibility="Collapsed">
+
+                </TextBox>
+                <Button Name="KupiButton"
+                     Grid.Column="1"
+                     Grid.Row="1"
+                    MinWidth="60"
+                    BorderThickness="0"
+                        HorizontalAlignment="Left"
+                    ToolTipService.ToolTip="Dodaj u korpu" Width="60"
+                    Visibility="Collapsed"
+                    Click="KupiButton_Click"
+                   >
+
+
+                    <Button.Background>
+                        <ImageBrush Stretch="UniformToFill" ImageSource="/Assets/add-to-cart.png"></ImageBrush>
+                    </Button.Background>
+
+                </Button>
+           
+    
+    
+            <TextBlock Text="OCIJENITE PROIZVOD: " FontSize="20" RenderTransformOrigin="0.507,-0.769" 
+                     Grid.ColumnSpan="2"  Grid.Row="3" Margin="0,40,0,0"
+                       HorizontalAlignment="Left"/>
+                <TextBlock x:Name="NarudzbaInfoLabel" VerticalAlignment="Bottom"/>
+            <Button Name="zakljuciButton" Content="zakljuci narudzbu" 
+                Click="zakljuciButton_Click"
+                Visibility="Collapsed" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="14,0.667,14.667,64.833" Grid.RowSpan="2">
+
+            </Button>
+            </Grid>
+
+            <Grid Margin="0,0,168,0">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="Auto"/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" MinWidth="30"/>
+                    <ColumnDefinition Width="31*"/>
+                    <ColumnDefinition Width="36*"/>
+                    <ColumnDefinition Width="37*"/>
+                    <ColumnDefinition Width="37*"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="star1" Visibility="Visible" Grid.Column="0"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50" Click="star1_Click" Height="50" Grid.ColumnSpan="2" Margin="15,-1,19.167,1" HorizontalAlignment="Stretch" Grid.RowSpan="2" RenderTransformOrigin="0.9,0.483" Width="30" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-empty.png" />
+                    </Button.Background>
+                </Button>
+                <Button x:Name="star1Full" Visibility="Collapsed" Grid.Column="0"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50" Click="star1_Click" Height="50" Width="30" Grid.ColumnSpan="2" Margin="15,-1,19.167,1" Grid.RowSpan="2" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-full.png" />
+                    </Button.Background>
+                </Button>
+
+
+                <Button x:Name="star2" Visibility="Visible" Grid.Column="1"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50" 
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star2_Click" Height="50" Margin="0,-1,29.167,1" Grid.ColumnSpan="2" Grid.RowSpan="2" RenderTransformOrigin="0.913,-2.436" HorizontalAlignment="Right" Width="30" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-empty.png" />
+                    </Button.Background>
+                </Button>
+                <Button x:Name="star2Full" Visibility="Collapsed" Grid.Column="1"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50" 
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star2_Click" Height="50" Width="30" Margin="16,-1,0,1" Grid.ColumnSpan="2" Grid.RowSpan="2" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-full.png" />
+                    </Button.Background>
+                </Button>
+
+                <Button x:Name="star3" Visibility="Visible" Grid.Column="2"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50"
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star3_Click" Height="50" Margin="10,-1,39.833,1" Width="30" Grid.RowSpan="2" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-empty.png" />
+                    </Button.Background>
+                </Button>
+                <Button x:Name="star3Full" Visibility="Collapsed" Grid.Column="2"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50"
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star3_Click" Height="50" Margin="10,-1,0,1" Width="30" Grid.RowSpan="2" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-full.png" />
+                    </Button.Background>
+                </Button>
+
+
+                <Button x:Name="star4" Visibility="Visible" Grid.Column="3"   
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50"
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star4_Click" Height="50" Margin="1,-1,0,1" Width="30" Grid.RowSpan="2" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-empty.png" />
+                    </Button.Background>
+                </Button>
+                <Button x:Name="star4Full" Visibility="Collapsed" Grid.Column="3"   
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50"
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star4_Click" Height="50" Margin="1,-1,0,1" Width="30" Grid.RowSpan="2" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-full.png" />
+                    </Button.Background>
+                </Button>
+
+
+                <Button x:Name="star5" Visibility="Visible" Grid.Column="3" Grid.Row="0"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50"
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star5_Click"  Height="50" Margin="30.833,-1,0,1" Width="30" Grid.ColumnSpan="2" Grid.RowSpan="2" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-empty.png" />
+                    </Button.Background>
+                </Button>
+                <Button x:Name="star5Full" Visibility="Collapsed" Grid.Column="3" Grid.Row="0"  
+        		BorderThickness="0" 
+        		MinWidth="25" MinHeight="50"
+        		ToolTipService.ToolTip="Dodaj u korpu" Click="star5_Click" Height="50" Margin="36,0,0,0" Width="30" Grid.ColumnSpan="2" Grid.RowSpan="2" >
+                    <Button.Background  >
+                        <ImageBrush  Stretch="UniformToFill"  ImageSource="/Assets/star-full.png" />
+                    </Button.Background>
+                </Button>
+            </Grid>
+
+            <TextBlock Text="Slicni proizvodi:" FontSize="20" 
+                       Height="21" RenderTransformOrigin="0.497,2.494"
+                       Visibility="Collapsed"
+                       Name="slicniProizvodiLabel"/>
+            <ListView Name="PreporuceniProizvodiList"
+                  IsItemClickEnabled="True"
+                      ItemClick="PreporuceniProizvodiList_ItemClick">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Margin="5">
+                            <Grid.Resources>
+                                <local:ImageConverter x:Key="ImageConverter"></local:ImageConverter>
+                            </Grid.Resources>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Border Width="110" Height="110">
+                                <Image
+                                    Source="{Binding Converter={StaticResource ImageConverter}}"></Image>
+                            </Border>
+                            <StackPanel Grid.Column="1" Margin="20,0,0,0">
+                                <TextBlock Text="{Binding Naziv}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+
+                                <TextBlock Text="{Binding Cijena}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                <TextBlock Text="{Binding Model}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+    </ScrollViewer>
+</Page>

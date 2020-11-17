@@ -1,0 +1,130 @@
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.pdb
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csproj.App.config
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Acer\Documents\Visual Studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll.config
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csproj.App.config
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll.config
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csproj.App.config
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll.config
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Shim.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\Validation.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csproj.App.config
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll.config
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\Shim.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\Validation.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\Shim.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\Shim.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\Validation.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csproj.App.config
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\obj\Debug\eProdajaNamjestaja_PCL1.pdb

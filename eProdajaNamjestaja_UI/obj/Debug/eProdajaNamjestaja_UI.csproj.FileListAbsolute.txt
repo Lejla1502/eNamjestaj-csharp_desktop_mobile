@@ -1,0 +1,300 @@
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\csc.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\vbc.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe.config
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Form1.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.LoginForm.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.MainForm.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Messages.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.KorisniciForm.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.PretragaKorisnika.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csproj.GenerateResource.Cache
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.AddProizvod.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.PretragaProizvoda.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.AddDobavljac.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.PretragaDobavljaca.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.AddSkladiste.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.PretragaSkladista.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.PretragaKupaca.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Purchase.NabavkaProizvoda.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.ActiveOrder.resources
+C:\Users\Acer\documents\visual studio 2015\Projects\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.OrderDetails.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe.config
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\csc.exe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\vbc.exe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.pdb
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.PretragaKupaca.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Form1.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.LoginForm.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.MainForm.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Messages.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.ActiveOrder.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.OrderDetails.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.AddProizvod.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.PretragaProizvoda.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Purchase.NabavkaProizvoda.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.AddSkladiste.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.PretragaSkladista.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.AddDobavljac.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.PretragaDobavljaca.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.KorisniciForm.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Properties.Resources.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.PretragaKorisnika.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csproj.GenerateResource.Cache
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.NarudzbaKupaca.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_ProizvodiOcjene.resources
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.cache
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lejla\Downloads\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_ProcesiraneNarudzbe.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe.config
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\csc.exe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\vbc.exe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Shim.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Validation.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Shim.pdb
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Shim.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Validation.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.NarudzbaKupaca.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.PretragaKupaca.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Form1.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.LoginForm.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.MainForm.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Messages.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.ActiveOrder.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.OrderDetails.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.AddProizvod.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.PretragaProizvoda.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Purchase.NabavkaProizvoda.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.AddSkladiste.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.PretragaSkladista.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.AddDobavljac.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.PretragaDobavljaca.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.KorisniciForm.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Properties.Resources.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.PretragaKorisnika.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csproj.GenerateResource.Cache
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.cache
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_Racun.resources
+C:\Users\Lejla\Downloads\PEP\PEP_EProdajaNamjestaja_IB120060\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_OrdersTotalByYearMonth.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\csc.exe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\vbc.exe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe.config
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Shim.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Validation.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Shim.pdb
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Shim.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\Validation.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.NarudzbaKupaca.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.PretragaKupaca.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.LoginForm.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.MainForm.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Messages.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.ActiveOrder.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.OrderDetails.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.AddProizvod.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.PretragaProizvoda.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Purchase.NabavkaProizvoda.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_OrdersTotalByYearMonth.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_Products.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_Racun.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.AddSkladiste.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.PretragaSkladista.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.AddDobavljac.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.PretragaDobavljaca.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.KorisniciForm.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Properties.Resources.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.PretragaKorisnika.resources
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csproj.GenerateResource.Cache
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.cache
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.compiled
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Desktop\eProdajaNamjestaja\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe.config
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\csc.exe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\vbc.exe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_PCL1.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Shim.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\PCLCrypto.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Validation.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_API.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_PCL1.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\EntityFramework.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Shim.pdb
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Shim.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\PCLCrypto.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\Validation.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.NarudzbaKupaca.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Consumers.PretragaKupaca.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.LoginForm.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.MainForm.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Messages.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.ActiveOrder.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Orders.OrderDetails.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.AddProizvod.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Products.PretragaProizvoda.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Purchase.NabavkaProizvoda.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_OrdersTotalByYearMonth.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_Products.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Reports.Frm_Racun.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.AddSkladiste.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Stocks.PretragaSkladista.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.AddDobavljac.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Suppliers.PretragaDobavljaca.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.KorisniciForm.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Properties.Resources.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.Users.PretragaKorisnika.resources
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.csproj.GenerateResource.Cache
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.cache
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\RdlCompile.compiled
+F:\New folder (2)\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\bin\Debug\eProdajaNamjestaja_UI.exe.config
+F:\New folder (2)\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.exe
+F:\New folder (2)\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_UI\obj\Debug\eProdajaNamjestaja_UI.pdb

@@ -1,0 +1,18 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\lejla\downloads\pep\pep_eprodajanamjestaja_ib120060\eprodajanamjestaja\eprodajanamjestaja_mobile1\obj\debug\intermediatexaml\eprodajanamjestaja_mobile1.exe" HashGuid="0556b8dd-21e9-7891-0127-2be616e3b133" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\eprodajanamjestaja_pcl1\bin\debug\eprodajanamjestaja_pcl1.dll" HashGuid="51a2e402-d1f3-6005-1369-b7e41455c776" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\newtonsoft.json.6.0.2\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="9d7edd31-e823-430e-c3cf-22078730f8bb" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\pclcrypto.2.0.147\lib\portable-win81+wpa81\pclcrypto.dll" HashGuid="7f5747d3-190f-2816-2f99-598f61e9ac14" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\pinvoke.bcrypt.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.bcrypt.dll" HashGuid="a7871029-9cc4-65f0-a2f8-1d587110ebf2" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\pinvoke.kernel32.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.kernel32.dll" HashGuid="6068377b-cf90-d698-b7c8-3327f16952c9" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\pinvoke.ncrypt.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.ncrypt.dll" HashGuid="a3e35b11-c9e0-4e89-4c6d-8f7f7400e60f" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\pinvoke.windows.core.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.windows.core.dll" HashGuid="1640fc05-bfb9-b488-84ff-26d41810cd9b" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\shim.2.0.1\lib\portable-win81+wpa81\shim.dll" HashGuid="715846f9-ecd1-032a-d9e0-2c881fd1cbe5" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\microsoft.aspnet.webapi.client.5.2.0\lib\portable-wp8+netcore45+net45+wp81+wpa81\system.net.http.formatting.dll" HashGuid="be2a4785-9a6a-e28d-8cef-3eb295a45d5a" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\validation.2.2.8\lib\dotnet\validation.dll" HashGuid="f7eff8c2-9a3d-f4fc-6fe4-78f849043e26" />
+    <ReferenceAssembly PathName="c:\users\lejla\desktop\pep-seminarskirad-ib120060\aplikacija-120060\packages\webapirestservice.webapiclient.1.1\lib\portable-net45+win+wpa81+wp80\webapirestservice.webapiclient.dll" HashGuid="61f0686c-adbf-7f03-6087-d67b60a4f166" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

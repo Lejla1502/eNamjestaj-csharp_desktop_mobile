@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="eProdajaNamjestaja_Mobile1.Products.Search"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:eProdajaNamjestaja_Mobile1.Products"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <!--<ScrollViewer  Height="2000" >-->
+        <StackPanel>
+
+            <ComboBox x:ConnectionId='1' Name="VrsteProizvodaList" 
+                      PlaceholderText="Odaberite vrstu proizvoda" 
+                                                                            />
+        <ScrollViewer Height="600">
+            <ListView x:ConnectionId='2' Name="ProizvodiList"
+                IsItemClickEnabled="True"
+                                                  >
+                <ListView.ItemTemplate>
+
+                    <DataTemplate>
+                        <Grid Margin="5">
+                            <Grid.Resources>
+                                <local:ImageConverter x:Key="ImageConverter"></local:ImageConverter>
+                            </Grid.Resources>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                                <ColumnDefinition Width="*"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Border Width="110" Height="110"  Grid.Column="0">
+                                <Image
+                                    Source="{Binding Converter={StaticResource ImageConverter}}" ></Image>
+                            </Border>
+                            <StackPanel Grid.Column="1" Margin="20,0,0,0">
+                                <TextBlock Text="{Binding Naziv}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                <TextBlock Text="{Binding Sifra}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                <TextBlock Text="{Binding Cijena}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                <TextBlock Text="{Binding Model}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+        
+        </ListView>
+</ScrollViewer>
+        </StackPanel>
+    <!--</ScrollViewer>-->
+</Page>
+

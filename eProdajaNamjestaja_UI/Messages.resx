@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="adresa_req" xml:space="preserve">
+    <value>Obavezno unesite adresu</value>
+  </data>
+  <data name="faks_req" xml:space="preserve">
+    <value>Obavezno unesite faks</value>
+  </data>
+  <data name="faktura_error" xml:space="preserve">
+    <value>Obavezno unesite broj faktuure</value>
+  </data>
+  <data name="fname_req" xml:space="preserve">
+    <value>Obavezno unesite ime</value>
+  </data>
+  <data name="Kolicina_error" xml:space="preserve">
+    <value>Unesite kolicinu</value>
+  </data>
+  <data name="kontakt_req" xml:space="preserve">
+    <value>Obavezno unesite kontakt</value>
+  </data>
+  <data name="lname_req" xml:space="preserve">
+    <value>Obavezno unesite prezime</value>
+  </data>
+  <data name="login_pass_error" xml:space="preserve">
+    <value>Unesena lozinka nije validna!</value>
+  </data>
+  <data name="mail1_req" xml:space="preserve">
+    <value>Obavezno unesite mail</value>
+  </data>
+  <data name="mail_error" xml:space="preserve">
+    <value>Unijeli ste pogrešan format e-mail adrese</value>
+  </data>
+  <data name="mail_req" xml:space="preserve">
+    <value>Obavezno unesite mail</value>
+  </data>
+  <data name="napomena_error" xml:space="preserve">
+    <value>Obavezno unesite napomenu</value>
+  </data>
+  <data name="nazivDobavljaca_req" xml:space="preserve">
+    <value>Obavezno unesite naziv dobavljaca</value>
+  </data>
+  <data name="order_succ" xml:space="preserve">
+    <value>Uspješno ste procesirali narudžbu</value>
+  </data>
+  <data name="pass_req" xml:space="preserve">
+    <value>Obavezno unesite lozinku</value>
+  </data>
+  <data name="phone_req" xml:space="preserve">
+    <value>Obavezno unesite telefon</value>
+  </data>
+  <data name="roles_req" xml:space="preserve">
+    <value>Obavezno odaberite ulogu</value>
+  </data>
+  <data name="sifra_error" xml:space="preserve">
+    <value>Unesite sifru</value>
+  </data>
+  <data name="sifra_req" xml:space="preserve">
+    <value>Obavezno unesite sifru</value>
+  </data>
+  <data name="telefon_req" xml:space="preserve">
+    <value>Obavezno unesite telefon</value>
+  </data>
+  <data name="ulazi_error" xml:space="preserve">
+    <value>Ulazi nisu uneseni</value>
+  </data>
+  <data name="username_req" xml:space="preserve">
+    <value>Obavezno unesite korisničko ime</value>
+  </data>
+  <data name="warning" xml:space="preserve">
+    <value>Upozorenje</value>
+  </data>
+  <data name="web_req" xml:space="preserve">
+    <value>Obavezno unesite web</value>
+  </data>
+  <data name="ziroRac_req" xml:space="preserve">
+    <value>Obavezno unesite ziro racun</value>
+  </data>
+  <data name="phone_req_length" xml:space="preserve">
+    <value>Telefon mora imati 6 cifara</value>
+  </data>
+  <data name="fax_req_length" xml:space="preserve">
+    <value>Faks mora imati 6 cifara</value>
+  </data>
+  <data name="naziv_req" xml:space="preserve">
+    <value>Naziv je obavezno polje</value>
+  </data>
+  <data name="picture_war" xml:space="preserve">
+    <value>Potrebno je da odaberete sliku dimenzija većih od</value>
+  </data>
+  <data name="fname_req_length" xml:space="preserve">
+    <value>Ime treba da sadrzi najmanje 3 karaktera!</value>
+  </data>
+  <data name="grad_req" xml:space="preserve">
+    <value>Obavezno odaberite grad</value>
+  </data>
+  <data name="lname_req_length" xml:space="preserve">
+    <value>Prezime treba da sadrzi najmanje 3 karaktera!</value>
+  </data>
+  <data name="login_username_err" xml:space="preserve">
+    <value>Korisnik sa datim korisničkim imenom ne postoji</value>
+  </data>
+  <data name="pass_req_length" xml:space="preserve">
+    <value>Lozinka treba da sadrzi najmanje 3 karaktera!</value>
+  </data>
+  <data name="spol_req" xml:space="preserve">
+    <value>Obavezno odaberite spol</value>
+  </data>
+  <data name="username_req_length" xml:space="preserve">
+    <value>Korisnicko ime treba da sadrzi najmanje 3 karaktera!</value>
+  </data>
+  <data name="korisnik_succ" xml:space="preserve">
+    <value>Podaci su uspješno sačuvani</value>
+  </data>
+  <data name="model_req" xml:space="preserve">
+    <value>Obavezno odaberite model proizvoda</value>
+  </data>
+  <data name="naziv_exists" xml:space="preserve">
+    <value>Naziv već postoji</value>
+  </data>
+  <data name="naziv_req_lenth" xml:space="preserve">
+    <value>Naziv treba da sadrzi najmanje 3 karaktera!</value>
+  </data>
+  <data name="sifra_exists" xml:space="preserve">
+    <value>Sifra vec postoji</value>
+  </data>
+  <data name="sifra_length" xml:space="preserve">
+    <value>Sifra mora imati najmanje 7 karaktera!</value>
+  </data>
+  <data name="slika_req" xml:space="preserve">
+    <value>Obavezno odaberite sliku</value>
+  </data>
+  <data name="tip_req" xml:space="preserve">
+    <value>Obavezno odaberite tip proizvoda</value>
+  </data>
+  <data name="vrsta_req" xml:space="preserve">
+    <value>Obavezno odaberite vrstu proizvoda</value>
+  </data>
+  <data name="adresa_req_length" xml:space="preserve">
+    <value>Adresa mora imati najmanje 3 karaktera!</value>
+  </data>
+  <data name="dobavljac_exists" xml:space="preserve">
+    <value>Dobavljač sa unešenim nazivom već postoji!</value>
+  </data>
+  <data name="dobavljac_mail_exists" xml:space="preserve">
+    <value>Mail već postoji!</value>
+  </data>
+  <data name="dobavljac_succ" xml:space="preserve">
+    <value>Uspjesno ste sačuvali podatke o dobavljaču!</value>
+  </data>
+  <data name="dobavljac_zracun_exists" xml:space="preserve">
+    <value>Žiro račun već postoji!</value>
+  </data>
+  <data name="error" xml:space="preserve">
+    <value>Greška</value>
+  </data>
+  <data name="faks_req_length" xml:space="preserve">
+    <value>Faks treba da sadrži najmanje 3 karatera!</value>
+  </data>
+  <data name="kontakt_req_lenth" xml:space="preserve">
+    <value>Kontakt treba da sadrži najmanje 3 karaktera!</value>
+  </data>
+  <data name="picture_size_war" xml:space="preserve">
+    <value>Slika nije odgovarajućih dimenzija. Odaberite drugu!</value>
+  </data>
+  <data name="product_add_succ" xml:space="preserve">
+    <value>Uspjesno ste dodali podatke o novom proizvodu!</value>
+  </data>
+  <data name="product_edit_succ" xml:space="preserve">
+    <value>Uspješno ste izmijenili podatke o proizvodu!</value>
+  </data>
+  <data name="skladiste_exists" xml:space="preserve">
+    <value>Skladište već postoji!</value>
+  </data>
+  <data name="skladiste_succ" xml:space="preserve">
+    <value>Uspjesno ste evidentirali podatke o novom skladistu!</value>
+  </data>
+  <data name="cijena_req" xml:space="preserve">
+    <value>Obavezno unesite cijenu</value>
+  </data>
+  <data name="order_cancel" xml:space="preserve">
+    <value>Uspješno ste otkazali narudžbu!</value>
+  </data>
+</root>

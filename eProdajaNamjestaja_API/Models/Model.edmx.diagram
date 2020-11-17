@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b4dbd8186d56469bafec068b83421fd0" Name="Diagram1">
+        <EntityTypeShape EntityType="eNamjestajModel.Dobavljaci" Width="1.5" PointX="0.75" PointY="13.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Izlazi" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.IzlaziStavke" Width="1.5" PointX="5.25" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Korisnici" Width="1.5" PointX="0.75" PointY="17.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.KorisniciUloge" Width="1.5" PointX="6" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Kupci" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.NarudzbaStavke" Width="1.5" PointX="8.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Narudzbe" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Ocjene" Width="1.5" PointX="8.25" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Skladista" Width="1.5" PointX="0.75" PointY="21.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.SkladistaProizvod" Width="1.5" PointX="8.25" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Ulazi" Width="1.5" PointX="3" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.UlaziStavke" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.Uloge" Width="1.5" PointX="3.75" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="eNamjestajModel.VrsteProizvoda" Width="1.5" PointX="0.75" PointY="9.375" IsExpanded="true" />
+        <AssociationConnector Association="eNamjestajModel.FK__Ulazi__Dobavljac__4AB81AF0" ManuallyRouted="true" >
+          <ConnectorPoint PointX="2.25" PointY="16.525940755208335" />
+          <ConnectorPoint PointX="2.6109375" PointY="16.479065755208335" />
+          <ConnectorPoint PointX="2.6822916666666665" PointY="16.479065755208335" />
+          <ConnectorPoint PointX="2.8489583333333335" PointY="16.479065755208335" />
+          <ConnectorPoint PointX="3.34375" PointY="16.479065755208335" />
+          <ConnectorPoint PointX="3.34375" PointY="17" />
+        </AssociationConnector>
+        <AssociationConnector Association="eNamjestajModel.FK__Izlazi__Korisnik__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Izlazi__Narudzba__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Izlazi__Skladist__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__IzlaziSta__Izlaz__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Korisnici__Koris__20C1E124" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Ulazi__KorisnikI__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Korisnici__Uloga__1FCDBCEB" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Narudzbe__KupacI__1273C1CD" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Ocjene__KupacID__3D5E1FD2" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__NarudzbaS__Narud__412EB0B6" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Skladista__Sklad__46E78A0C" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__Ulazi__Skladiste__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="eNamjestajModel.FK__UlaziStav__UlazI__5441852A" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="eNamjestajModel.ModelProizvoda" Width="1.5" PointX="0.75" PointY="0.875" />
+        <EntityTypeShape EntityType="eNamjestajModel.TipProizvoda" Width="1.5" PointX="0.75" PointY="25.25" />
+        <EntityTypeShape EntityType="eNamjestajModel.Gradovi" Width="1.5" PointX="0.75" PointY="28.625" />
+        <EntityTypeShape EntityType="eNamjestajModel.Spol" Width="1.5" PointX="0.75" PointY="30.875" />
+        <AssociationConnector Association="eNamjestajModel.FK__Korisnici__GradI__2EA5EC27" />
+        <AssociationConnector Association="eNamjestajModel.FK__Korisnici__SpolI__318258D2" />
+        <EntityTypeShape EntityType="eNamjestajModel.Proizvodi" Width="1.5" PointX="3" PointY="8.625" />
+        <AssociationConnector Association="eNamjestajModel.FK__IzlaziSta__Proiz__38996AB5" />
+        <AssociationConnector Association="eNamjestajModel.FK__Proizvodi__Model__123EB7A3" />
+        <AssociationConnector Association="eNamjestajModel.FK__NarudzbaS__Proiz__403A8C7D" />
+        <AssociationConnector Association="eNamjestajModel.FK__Ocjene__Proizvod__3C69FB99" />
+        <AssociationConnector Association="eNamjestajModel.FK__Proizvodi__TipID__114A936A" />
+        <AssociationConnector Association="eNamjestajModel.FK__Proizvodi__Vrsta__35BCFE0A" />
+        <AssociationConnector Association="eNamjestajModel.FK__Skladista__Proiz__47DBAE45" />
+        <AssociationConnector Association="eNamjestajModel.FK__UlaziStav__Proiz__534D60F1" />
+        <EntityTypeShape EntityType="eNamjestajModel.View_TopSellingProducts" Width="1.5" PointX="8.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

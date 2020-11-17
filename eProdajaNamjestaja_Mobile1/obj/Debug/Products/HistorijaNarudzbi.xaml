@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="eProdajaNamjestaja_Mobile1.Products.HistorijaNarudzbi"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:eProdajaNamjestaja_Mobile1.Products"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+
+
+
+    <ScrollViewer>
+        <StackPanel HorizontalAlignment="Center" Width="348">
+            <TextBlock Text="Historija narudžbi" FontSize="25" HorizontalAlignment="Center"></TextBlock>
+
+            <ListView Name="historijaNarudzbiList" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel HorizontalAlignment="Center" Margin="10">
+                          
+                            <TextBlock Style="{StaticResource MessageDialogContentStyle}">
+                                <Run Text="Datum narudžbe: "></Run>
+                                <Run Text="{Binding Datum}"></Run>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource MessageDialogContentStyle}">
+                                <Run Text="Naziv proizvoda: "></Run>
+                                <Run Text="{Binding Naziv}"></Run>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource MessageDialogContentStyle}">
+                                <Run Text="Količina: "></Run>
+                                <Run Text="{Binding Kolicina}"></Run>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource MessageDialogContentStyle}">
+                                <Run Text="Cijena: "></Run>
+                                <Run Text="{Binding Cijena}"></Run>
+                            </TextBlock>
+                            <TextBlock Style="{StaticResource MessageDialogContentStyle}">
+                                <Run Text="Iznos: "></Run>
+                                <Run Text="{Binding Iznos}"></Run>
+
+                            </TextBlock>
+
+                            
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackPanel>
+
+    </ScrollViewer>
+
+</Page>
+

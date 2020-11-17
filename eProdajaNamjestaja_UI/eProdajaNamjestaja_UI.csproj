@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{59A8264A-4CFE-41A6-94B1-6FDE50818F7C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>eProdajaNamjestaja_UI</RootNamespace>
+    <AssemblyName>eProdajaNamjestaja_UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection.cs" />
+    <Compile Include="Consumers\NarudzbaKupaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consumers\NarudzbaKupaca.Designer.cs">
+      <DependentUpon>NarudzbaKupaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consumers\PretragaKupaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consumers\PretragaKupaca.Designer.cs">
+      <DependentUpon>PretragaKupaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAOrders.cs" />
+    <Compile Include="DSOrders.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSOrders.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DSProducts.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSProducts.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Global.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messages.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Messages.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Orders\ActiveOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders\ActiveOrder.Designer.cs">
+      <DependentUpon>ActiveOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Orders\OrderDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Orders\OrderDetails.Designer.cs">
+      <DependentUpon>OrderDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\AddProizvod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\AddProizvod.Designer.cs">
+      <DependentUpon>AddProizvod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Products\PretragaProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Products\PretragaProizvoda.Designer.cs">
+      <DependentUpon>PretragaProizvoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Purchase\NabavkaProizvoda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase\NabavkaProizvoda.Designer.cs">
+      <DependentUpon>NabavkaProizvoda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Frm_OrdersTotalByYearMonth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Frm_OrdersTotalByYearMonth.Designer.cs">
+      <DependentUpon>Frm_OrdersTotalByYearMonth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Frm_Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Frm_Products.Designer.cs">
+      <DependentUpon>Frm_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Frm_Racun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\Frm_Racun.Designer.cs">
+      <DependentUpon>Frm_Racun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stocks\AddSkladiste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\AddSkladiste.Designer.cs">
+      <DependentUpon>AddSkladiste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stocks\PretragaSkladista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\PretragaSkladista.Designer.cs">
+      <DependentUpon>PretragaSkladista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliers\AddDobavljac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliers\AddDobavljac.Designer.cs">
+      <DependentUpon>AddDobavljac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppliers\PretragaDobavljaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppliers\PretragaDobavljaca.Designer.cs">
+      <DependentUpon>PretragaDobavljaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\KorisniciForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\KorisniciForm.Designer.cs">
+      <DependentUpon>KorisniciForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Users\PretragaKorisnika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\PretragaKorisnika.Designer.cs">
+      <DependentUpon>PretragaKorisnika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\UIHelper.cs" />
+    <Compile Include="Util\WeAPIHelper.cs" />
+    <EmbeddedResource Include="Consumers\NarudzbaKupaca.resx">
+      <DependentUpon>NarudzbaKupaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consumers\PretragaKupaca.resx">
+      <DependentUpon>PretragaKupaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Messages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders\ActiveOrder.resx">
+      <DependentUpon>ActiveOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Orders\OrderDetails.resx">
+      <DependentUpon>OrderDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\AddProizvod.resx">
+      <DependentUpon>AddProizvod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Products\PretragaProizvoda.resx">
+      <DependentUpon>PretragaProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Purchase\NabavkaProizvoda.resx">
+      <DependentUpon>NabavkaProizvoda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Frm_OrdersTotalByYearMonth.resx">
+      <DependentUpon>Frm_OrdersTotalByYearMonth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Frm_Products.resx">
+      <DependentUpon>Frm_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\Frm_Racun.resx">
+      <DependentUpon>Frm_Racun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\OrdersTotalByYearMonth.rdlc" />
+    <EmbeddedResource Include="Reports\OrederDetailsReport.rdlc" />
+    <EmbeddedResource Include="Reports\TopSellingProducts.rdlc" />
+    <EmbeddedResource Include="Stocks\AddSkladiste.resx">
+      <DependentUpon>AddSkladiste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\PretragaSkladista.resx">
+      <DependentUpon>PretragaSkladista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppliers\AddDobavljac.resx">
+      <DependentUpon>AddDobavljac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppliers\PretragaDobavljaca.resx">
+      <DependentUpon>PretragaDobavljaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\KorisniciForm.resx">
+      <DependentUpon>KorisniciForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Users\PretragaKorisnika.resx">
+      <DependentUpon>PretragaKorisnika.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DSOrders.xsc">
+      <DependentUpon>DSOrders.xsd</DependentUpon>
+    </None>
+    <None Include="DSOrders.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSOrders.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DSOrders.xss">
+      <DependentUpon>DSOrders.xsd</DependentUpon>
+    </None>
+    <None Include="DSProducts.xsc">
+      <DependentUpon>DSProducts.xsd</DependentUpon>
+    </None>
+    <None Include="DSProducts.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSProducts.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSProducts.xss">
+      <DependentUpon>DSProducts.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\DSOrders.datasource" />
+    <None Include="Properties\DataSources\eProdajaNamjestaja_API.Models.esp_NarudzbeStavke_SelectByNarudzbaID_Result.datasource" />
+    <None Include="Properties\DataSources\eProdajaNamjestaja_API.Models.esp_Narudzbe_SelectAktivne_Result.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\eProdajaNamjestaja_API\eProdajaNamjestaja_API.csproj">
+      <Project>{88956e91-dbb2-494c-8147-6b17201764a2}</Project>
+      <Name>eProdajaNamjestaja_API</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\eProdajaNamjestaja_PCL1\eProdajaNamjestaja_PCL1.csproj">
+      <Project>{24EADD6E-64DB-457B-B4F1-6C1B5B207AEE}</Project>
+      <Name>eProdajaNamjestaja_PCL1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

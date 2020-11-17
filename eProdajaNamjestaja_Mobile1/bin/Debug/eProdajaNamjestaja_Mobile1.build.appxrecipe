@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ACER</Machine>
+    <WindowsUser>Lejla</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8278fe3e-491e-474f-b634-45c30106fbad</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Acer</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe">
+      <PackagePath>eProdajaNamjestaja_Mobile1.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.exe.config">
+      <PackagePath>eProdajaNamjestaja_Mobile1.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\bin\Debug\eProdajaNamjestaja_PCL1.dll">
+      <PackagePath>eProdajaNamjestaja_PCL1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\Newtonsoft.Json.6.0.2\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\PCLCrypto.2.0.147\lib\portable-win81+wpa81\PCLCrypto.dll">
+      <PackagePath>PCLCrypto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\PInvoke.BCrypt.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.BCrypt.dll">
+      <PackagePath>PInvoke.BCrypt.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\PInvoke.Kernel32.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.Kernel32.dll">
+      <PackagePath>PInvoke.Kernel32.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\PInvoke.NCrypt.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.NCrypt.dll">
+      <PackagePath>PInvoke.NCrypt.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\PInvoke.Windows.Core.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.Windows.Core.dll">
+      <PackagePath>PInvoke.Windows.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\shim.2.0.1\lib\portable-win81+wpa81\Shim.dll">
+      <PackagePath>Shim.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\Microsoft.AspNet.WebApi.Client.5.2.0\lib\portable-wp8+netcore45+net45+wp81+wpa81\System.Net.Http.Formatting.dll">
+      <PackagePath>System.Net.Http.Formatting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\Validation.2.2.8\lib\dotnet\Validation.dll">
+      <PackagePath>Validation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\packages\WebApiRestService.WebApiClient.1.1\lib\portable-net45+win+wpa81+wp80\WebApiRestService.WebApiClient.dll">
+      <PackagePath>WebApiRestService.WebApiClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\add-to-cart.png">
+      <PackagePath>Assets\add-to-cart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\star-empty.png">
+      <PackagePath>Assets\star-empty.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\star-full.png">
+      <PackagePath>Assets\star-full.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\eProdajaNamjestaja_Mobile1.xr.xml">
+      <PackagePath>eProdajaNamjestaja_Mobile1.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\HistorijaNarudzbi.xbf">
+      <PackagePath>Products\HistorijaNarudzbi.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\OcjenjivanjeIPreporuka.xbf">
+      <PackagePath>Products\OcjenjivanjeIPreporuka.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\Search.xbf">
+      <PackagePath>Products\Search.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Products\UrediProfil.xbf">
+      <PackagePath>Products\UrediProfil.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Profil\ActiveOrders.xbf">
+      <PackagePath>Profil\ActiveOrders.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\Registration.xbf">
+      <PackagePath>Registration.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

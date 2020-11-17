@@ -1,0 +1,2 @@
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_Mobile1\eProdajaNamjestaja_Mobile1.csproj;neutral
+C:\Users\Lejla\Desktop\PeP-SeminarskiRad-IB120060\Aplikacija-120060\eProdajaNamjestaja_PCL1\eProdajaNamjestaja_PCL1.csproj;neutral
